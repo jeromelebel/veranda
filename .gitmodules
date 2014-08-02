@@ -1,0 +1,3 @@
+[submodule "spark-core"]
+	path = spark-core
+	url = git@github.com:jeromelebel/spark-core.git
